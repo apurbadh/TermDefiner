@@ -49,5 +49,3 @@ def main():
         open_website(word.url)
 
 
-
-main()
